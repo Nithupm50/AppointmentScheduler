@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppointmentScheduler/static/css/main.ebece79f.css",
+    "main.js": "/AppointmentScheduler/static/js/main.e7fa2ce1.js",
+    "index.html": "/AppointmentScheduler/index.html",
+    "main.ebece79f.css.map": "/AppointmentScheduler/static/css/main.ebece79f.css.map",
+    "main.e7fa2ce1.js.map": "/AppointmentScheduler/static/js/main.e7fa2ce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebece79f.css",
+    "static/js/main.e7fa2ce1.js"
+  ]
+}
